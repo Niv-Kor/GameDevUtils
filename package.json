@@ -1,0 +1,12 @@
+{
+    "name": "nivkor.gamedevutils",
+    "displayName": "Game Dev Utils",
+    "version": "0.0.1",
+    "unity": "2019.3",
+    "description": "Utility library for Unity.",
+    "keywords": ["unity", "custom", "package", "utility"],
+    "author": {
+      "name": "Niv Kor",
+      "email": "nivkor23@gmail.com"
+    }
+}
